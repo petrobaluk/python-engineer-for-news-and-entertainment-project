@@ -1,0 +1,2 @@
+# python-engineer-for-news-and-entertainment-project
+Our customer is a leading media company intensely focused on delivering high-quality original   reporting, insight, and viral content across a rapidly expanding array of subject areas.   Customer’s technology detects what is trending on the web, their site is rapidly growing and   reaches more than 150 million monthly unique visitors. Customer’s office is headquartered in   New York.
